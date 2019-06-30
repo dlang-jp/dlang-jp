@@ -15,9 +15,9 @@
 ## Qiita
 - アドベントカレンダー
     - 2012 [https://qiita.com/advent-calendar/2012/d](https://qiita.com/advent-calendar/2012/d)
-    - 2013 [https://qiita.com/advent-calendar/2013/d](https://qiita.com/advent-calendar/2013/d)
-    - 2014 [https://qiita.com/advent-calendar/2014/d](https://qiita.com/advent-calendar/2014/d)
-    - 2015 [https://qiita.com/advent-calendar/2015/d](https://qiita.com/advent-calendar/2015/d)
-    - 2016 [https://qiita.com/advent-calendar/2016/d](https://qiita.com/advent-calendar/2016/d)
-    - 2017 [https://qiita.com/advent-calendar/2017/d](https://qiita.com/advent-calendar/2017/d)
-    - 2018 [https://qiita.com/advent-calendar/2018/d](https://qiita.com/advent-calendar/2018/d)
+    - 2013 [https://qiita.com/advent-calendar/2013/dlang](https://qiita.com/advent-calendar/2013/dlang)
+    - 2014 [https://qiita.com/advent-calendar/2014/dlang](https://qiita.com/advent-calendar/2014/dlang)
+    - 2015 [https://qiita.com/advent-calendar/2015/dlang](https://qiita.com/advent-calendar/2015/dlang)
+    - 2016 [https://qiita.com/advent-calendar/2016/dlang](https://qiita.com/advent-calendar/2016/dlang)
+    - 2017 [https://qiita.com/advent-calendar/2017/dlang](https://qiita.com/advent-calendar/2017/dlang)
+    - 2018 [https://qiita.com/advent-calendar/2018/dlang](https://qiita.com/advent-calendar/2018/dlang)
