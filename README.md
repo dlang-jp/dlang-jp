@@ -9,10 +9,15 @@
 # リンク集
 
 ## コミュニティ
+
 - Twitter
     - https://twitter.com/hashtag/dlang
 
 ## Qiita
+
+- 言語タグ
+    - [dlang](https://qiita.com/tags/dlang)
+    - [D言語](https://qiita.com/tags/d言語)
 - アドベントカレンダー
     - 2012 [https://qiita.com/advent-calendar/2012/d](https://qiita.com/advent-calendar/2012/d)
     - 2013 [https://qiita.com/advent-calendar/2013/dlang](https://qiita.com/advent-calendar/2013/dlang)
