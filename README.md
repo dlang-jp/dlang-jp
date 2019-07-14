@@ -6,6 +6,8 @@
 
 参加などはTwitter等でお気軽にご連絡ください
 
+- lempiji [Twitter](https://twitter.com/lempiji)
+
 # リンク集
 
 ## コミュニティ
