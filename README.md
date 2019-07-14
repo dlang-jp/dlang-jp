@@ -6,7 +6,10 @@
 
 参加などはTwitter等でお気軽にご連絡ください
 
+## コンタクト
+
 - lempiji [Twitter](https://twitter.com/lempiji)
+- kubo39  [Twitter](https://twitter.com/shitsyndrome)
 
 # リンク集
 
