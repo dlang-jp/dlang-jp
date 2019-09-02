@@ -17,6 +17,8 @@
 
 - Twitter
     - https://twitter.com/hashtag/dlang
+- Slack
+    - https://dlang-jp.slack.com/
 
 ## Qiita
 
