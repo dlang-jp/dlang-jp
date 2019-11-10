@@ -33,3 +33,4 @@
     - 2016 [https://qiita.com/advent-calendar/2016/dlang](https://qiita.com/advent-calendar/2016/dlang)
     - 2017 [https://qiita.com/advent-calendar/2017/dlang](https://qiita.com/advent-calendar/2017/dlang)
     - 2018 [https://qiita.com/advent-calendar/2018/dlang](https://qiita.com/advent-calendar/2018/dlang)
+    - 2019 [https://qiita.com/advent-calendar/2019/dlang](https://qiita.com/advent-calendar/2019/dlang) 現在記事募集中！
