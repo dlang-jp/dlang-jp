@@ -18,7 +18,7 @@
 - Twitter
     - https://twitter.com/hashtag/dlang
 - Slack
-    - https://dlang-jp.slack.com/
+    - https://dlang-jp.slack.com/ 参加は[こちら](https://join.slack.com/t/dlang-jp/shared_invite/zt-dh9boxuv-b0y7fnHwwM6I5dtxV2uhmg)
 
 ## Qiita
 
