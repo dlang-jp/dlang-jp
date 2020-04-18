@@ -26,8 +26,10 @@ OrganizatoinやSlackへの参加希望などはTwitter等でお気軽にご連�
 
 ### SNS・コミュニティ
 
-- Twitter: https://twitter.com/hashtag/dlang
-- Slack: https://dlang-jp.slack.com/
+- Twitter
+    - https://twitter.com/hashtag/dlang
+- Slack
+    - https://dlang-jp.slack.com/ 参加は[こちら](https://join.slack.com/t/dlang-jp/shared_invite/zt-dh9boxuv-b0y7fnHwwM6I5dtxV2uhmg)
 
 ### Qiita
 
@@ -42,4 +44,4 @@ OrganizatoinやSlackへの参加希望などはTwitter等でお気軽にご連�
     - 2016 [https://qiita.com/advent-calendar/2016/dlang](https://qiita.com/advent-calendar/2016/dlang)
     - 2017 [https://qiita.com/advent-calendar/2017/dlang](https://qiita.com/advent-calendar/2017/dlang)
     - 2018 [https://qiita.com/advent-calendar/2018/dlang](https://qiita.com/advent-calendar/2018/dlang)
-    - 2019 [https://qiita.com/advent-calendar/2019/dlang](https://qiita.com/advent-calendar/2019/dlang) 現在記事募集中！
+    - 2019 [https://qiita.com/advent-calendar/2019/dlang](https://qiita.com/advent-calendar/2019/dlang)
