@@ -1,26 +1,37 @@
 # 日本D言語ユーザーグループ
 
-日本D言語ユーザーグループです。
+日本D言語ユーザーグループは日本におけるD言語の普及活動とD言語を利用する人々のサポートを目的とするユーザグループです。
 
-主に日本語情報の整理と共有、D言語公式への貢献などを目的に活動していきます。
+## 主な活動内容
 
-参加などはTwitter等でお気軽にご連絡ください
+- D言語の日本語情報の整理と共有
+    - [クックブック](https://github.com/dlang-jp/Cookbook)の作成
+- D言語公式への貢献
+
+などの活動を行っていきます
 
 ## コンタクト
+
+OrganizatoinやSlackへの参加希望などはTwitter等でお気軽にご連絡ください
 
 - lempiji [Twitter](https://twitter.com/lempiji)
 - kubo39  [Twitter](https://twitter.com/shitsyndrome)
 
-# リンク集
+## リンク集
 
-## コミュニティ
+### イベント情報
+
+- D言語もくもく会 https://dlang-mokumoku.connpass.com/
+  - 有志が集まって行うもくもく会です
+
+### SNS・コミュニティ
 
 - Twitter
     - https://twitter.com/hashtag/dlang
 - Slack
     - https://dlang-jp.slack.com/ 参加は[こちら](https://join.slack.com/t/dlang-jp/shared_invite/zt-dh9boxuv-b0y7fnHwwM6I5dtxV2uhmg)
 
-## Qiita
+### Qiita
 
 - 言語タグ
     - [dlang](https://qiita.com/tags/dlang)
