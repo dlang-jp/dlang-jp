@@ -45,3 +45,5 @@ OrganizatoinやSlackへの参加希望などはTwitter等でお気軽にご連�
     - 2017 [https://qiita.com/advent-calendar/2017/dlang](https://qiita.com/advent-calendar/2017/dlang)
     - 2018 [https://qiita.com/advent-calendar/2018/dlang](https://qiita.com/advent-calendar/2018/dlang)
     - 2019 [https://qiita.com/advent-calendar/2019/dlang](https://qiita.com/advent-calendar/2019/dlang)
+    - 2020 [https://qiita.com/advent-calendar/2020/dlang](https://qiita.com/advent-calendar/2020/dlang)
+    - 2021 [https://qiita.com/advent-calendar/2021/dlang](https://qiita.com/advent-calendar/2021/dlang)
