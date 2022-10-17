@@ -26,8 +26,10 @@ OrganizatoinやSlackへの参加希望などはTwitter等でお気軽にご連�
 
 ### SNS・コミュニティ
 
-- Twitter
+- Twitterハッシュタグ
     - https://twitter.com/hashtag/dlang
+- Twitterコミュニティ
+    - https://twitter.com/i/communities/1558402206206132224
 - Slack
     - https://dlang-jp.slack.com/ 参加は[こちら](https://join.slack.com/t/dlang-jp/shared_invite/zt-dh9boxuv-b0y7fnHwwM6I5dtxV2uhmg)
 
